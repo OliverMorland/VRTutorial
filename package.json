@@ -1,0 +1,37 @@
+{
+  "name": "com.swingtechconsulting.vrtutorial",
+  "version": "1.0.0",
+  "displayName": "VR Tutorial Builder",
+  "description": "A state machine consisting of various tasks for a user to perform.",
+  "unity": "2021.1",
+  "unityRelease": "0f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "VR",
+    "Tutorial",
+    "Task"
+  ],
+  "author": {
+    "name": "Oliver Morland",
+    "email": "omorland@swingtech.com",
+    "url": "https://yourcompany.com"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.mathematics": "1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourcompany/yourpackage.git",
+    "revision": "v1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Sample Tutorial Tasks",
+      "description": "This is a sample scene demonstrating the core features of the package.",
+      "path": "Samples~/SampleTutorialTasks"
+    }
+  ]
+}
