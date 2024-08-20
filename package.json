@@ -16,11 +16,11 @@
   "author": {
     "name": "Oliver Morland",
     "email": "omorland@swingtech.com",
-    "url": "https://yourcompany.com"
+    "url": "https://swingtech.com/"
   },
   "dependencies": {
-    "com.unity.textmeshpro": "3.0.6",
-    "com.unity.mathematics": "1.2.1"
+    "UnityEngine.XR.Interaction.Toolkit": "2.5.3",
+    "com.unity.inputsystem": "1.7.0"
   },
   "repository": {
     "type": "git",
