@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be3c6e81e38c15c4f89a6d04c4defe9d, type: 3}
+  m_Name: FirstTeleport
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: 560a1d38e6f356d4c8dc5dfe7a596e67, type: 3}
+  text: "Please turn around facing the opposite direction until you see three shapes
+    in the distance. Let\u2019s try moving over to the blinking cone.  \r\n\rPush
+    and hold the joystick forward; place the end of the arcing line on top of the
+    platform in front of the blinking cone. When the line turns green, release the
+    joystick."

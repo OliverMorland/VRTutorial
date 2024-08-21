@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be3c6e81e38c15c4f89a6d04c4defe9d, type: 3}
+  m_Name: TutorialComplete
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: f591fcd7fdfd4af4ea4b53edf0cc4ace, type: 3}
+  text: "Welcome home. \r\nYou now have all the basic skills you\u2019ll need to
+    navigate and interact with this virtual world. "

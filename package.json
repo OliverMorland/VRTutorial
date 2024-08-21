@@ -29,9 +29,9 @@
   },
   "samples": [
     {
-      "displayName": "Sample Tutorial Tasks",
+      "displayName": "VRSurveyor Sample",
       "description": "This is a sample scene demonstrating the core features of the package.",
-      "path": "Samples~/SampleTutorialTasks"
+      "path": "Samples~/VRSurveyorSample"
     }
   ]
 }

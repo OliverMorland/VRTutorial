@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be3c6e81e38c15c4f89a6d04c4defe9d, type: 3}
+  m_Name: TakePhoto
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: 9861e34b15525fd478d0f200df45a1c4, type: 3}
+  text: "Perfect! \r\n\rWell, look at that! Now you have a tablet in your hand. If
+    you don\u2019t see it, lift your left hand. Let\u2019s explore what you can do
+    with it. How about taking a picture? Open the camera app by selecting the photo
+    button just like you did a moment ago. Then frame the box in the screen and select
+    the circle to take a picture."
