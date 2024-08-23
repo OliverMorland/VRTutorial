@@ -65,7 +65,7 @@ public class LobbyTutorialManager : TutorialStateMachine
 
     GameProgress GetCurrentGameProgress()
     {
-        bool vrSurveyorComplete = false;// !GameManager.LoadIntro;
+        bool vrSurveyorComplete = false;//!GameManager.LoadIntro;
         bool makeUsSafeComplete = false;// !Experience2Manager.LoadIntro;
         if (makeUsSafeComplete)
         {
