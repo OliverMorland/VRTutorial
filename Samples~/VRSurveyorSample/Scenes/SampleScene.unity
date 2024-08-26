@@ -6659,10 +6659,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 0}
-      propertyPath: xrOrigin
-      value: 
-      objectReference: {fileID: 328576029}
     - target: {fileID: 1139427889247623864, guid: 3648332980b5dc14a876c340653c2f27,
         type: 3}
       propertyPath: m_DirectInteractor
@@ -12603,7 +12599,7 @@ PrefabInstance:
         type: 3}
       propertyPath: RestartAction
       value: 
-      objectReference: {fileID: -1328813581247518719, guid: c348712bda248c246b8c49b3db54643f,
+      objectReference: {fileID: -1328813581247518719, guid: c188cbe1e7b83fc41ad026a734c7faee,
         type: 3}
     - target: {fileID: 3666138484306286341, guid: 6efc0011739ee77408cbbf9edf4e2630,
         type: 3}
