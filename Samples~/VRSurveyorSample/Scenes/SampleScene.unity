@@ -10196,9 +10196,9 @@ MonoBehaviour:
   OnTaskCompleted:
     m_PersistentCalls:
       m_Calls: []
-  leftControllerActionToPerform: {fileID: 2982132950059878435, guid: c348712bda248c246b8c49b3db54643f,
+  leftControllerActionToPerform: {fileID: 2982132950059878435, guid: c188cbe1e7b83fc41ad026a734c7faee,
     type: 3}
-  rightControllerActionToPerform: {fileID: 7838554852150877578, guid: c348712bda248c246b8c49b3db54643f,
+  rightControllerActionToPerform: {fileID: 7838554852150877578, guid: c188cbe1e7b83fc41ad026a734c7faee,
     type: 3}
   showControllers: 1
 --- !u!1 &1994081997 stripped
