@@ -1,6 +1,6 @@
 {
   "name": "com.swingtechconsulting.vrtutorial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "VR Tutorial Builder",
   "description": "A state machine consisting of various tasks for a user to perform.",
   "unity": "2021.1",
