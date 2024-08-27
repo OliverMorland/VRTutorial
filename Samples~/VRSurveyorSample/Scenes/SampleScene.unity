@@ -6604,6 +6604,12 @@ PrefabInstance:
       propertyPath: controller
       value: 
       objectReference: {fileID: 1263437777}
+    - target: {fileID: 2255644896312698397, guid: 3648332980b5dc14a876c340653c2f27,
+        type: 3}
+      propertyPath: teleportAction
+      value: 
+      objectReference: {fileID: 7838554852150877578, guid: c188cbe1e7b83fc41ad026a734c7faee,
+        type: 3}
     - target: {fileID: 4164491028853635426, guid: 3648332980b5dc14a876c340653c2f27,
         type: 3}
       propertyPath: m_IsActive
@@ -6674,6 +6680,12 @@ PrefabInstance:
       propertyPath: controller
       value: 
       objectReference: {fileID: 1734287948}
+    - target: {fileID: 7754395809011167768, guid: 3648332980b5dc14a876c340653c2f27,
+        type: 3}
+      propertyPath: teleportAction
+      value: 
+      objectReference: {fileID: 2982132950059878435, guid: c188cbe1e7b83fc41ad026a734c7faee,
+        type: 3}
     - target: {fileID: 8442421222300277657, guid: 3648332980b5dc14a876c340653c2f27,
         type: 3}
       propertyPath: m_IsActive
